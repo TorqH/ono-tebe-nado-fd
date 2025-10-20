@@ -44,7 +44,6 @@ li:first-child {
     padding: 0px 50px 0px 0px;
     font-family: Raleway;
     font-style: normal;
-    max-width: 240px;
 }
 
 .contacts {
@@ -319,10 +318,6 @@ li:first-child {
     padding-right: 25px;
 }
 
-/* .contacts_footer {
-    font-family: Raleway;
-    font-style: normal;
-} */
 
 .menu_footer {
     display: flex;
@@ -345,16 +340,4 @@ li:first-child {
     list-style-type: none;
     margin-left: 20px;
     margin-top: 1px;
-}
-
-.youtube {
-
-}
-
-.vk {
-
-}
-
-.pinterest {
-
 }
