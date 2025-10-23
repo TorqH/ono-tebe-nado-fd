@@ -86,9 +86,8 @@ li:first-child {
 .title {
     display: flex;
     flex-direction: column;
-    gap: 50px;
-    margin: 165px 50px 0px;
     gap: 17px;
+    margin: 165px 50px 0px;
     z-index: 2;
     text-transform: uppercase;
     color: white;
